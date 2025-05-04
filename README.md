@@ -1,5 +1,5 @@
-<img src="imgs/IMG_4194.jpg" alt="Plastic Scintillation Detector Visualization" width=50%" />
-Image provided by CERN: <https://cern.ch>
+![Plastic Scintillation Detector Visualization Setup: An array of LEDs which are lit blue-violet if the energy of a particle passing thru was detected in the corresponding detector segments, and green for the interpolated path.](imgs/IMG_4194.jpg)Plastic Scintillation Detector Visualization Setup: An array of LEDs which are lit blue-violet if the energy of a particle passing thru was detected in the corresponding detector segments, and green for the interpolated path.
+Image provided by [CERN](https://home.cern/) - usage only under the terms described in [COPYRIGHT.md](COPYRIGHT.md).
 
 # PSD - Plastic Scintillation Detector
 A Plastic Scintillation Detector (PSD) is specific kind of particle detector, on which I worked on during my time at CERN, and of which I built a functioning Exhibition prototype for IdeaSquare.
