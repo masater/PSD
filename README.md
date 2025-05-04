@@ -1,3 +1,6 @@
+<img src="imgs/IMG_4194.jpg" alt="Plastic Scintillation Detector Visualization" width=50%" />
+Image provided by CERN: <https://cern.ch>
+
 # PSD - Plastic Scintillation Detector
 A Plastic Scintillation Detector (PSD) is specific kind of particle detector, on which I worked on during my time at CERN, and of which I built a functioning Exhibition prototype for IdeaSquare.
 
